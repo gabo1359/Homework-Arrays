@@ -49,7 +49,7 @@ const alumnos = [
     }
   ]
 
-//   Execise 1
+//   Exercise 1
 
 console.log("\t***** Exercise 1 *****")
 
